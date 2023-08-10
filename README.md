@@ -1,4 +1,4 @@
-# Projects
+# Drowsy Driver Detection
 Multi-Project Repository
 
 This repository is a collection of projects, each designed to address specific needs and challenges. The goal is to offer a range of solutions that cater to different interests and skillsets. Below, you'll find a brief overview of the projects and their significance:
